@@ -3,10 +3,11 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00  15 L03 Set up my OS222 GitHub repository
 ZCZC W00  10 L04 Set up my OS222 GitHub Page
-ZCZC W00  05 L01 Explore and read through OS222's SCELE course
+ZCZC W00  05 L01 Explore and read through OS222's SCELE course, course registration
 ZCZC W00 120 L02 Tuesday Zoom class
 ZCZC W00  10 L10 Reading Assignment: What defines an operating system?
 ZCZC W00  60 L10 Reading Assignment: Operating System Concepts, Chapter 1
 ZCZC W00 120 L02 Thursday Zoom class
 ZCZC W00 120 L10 Reading Assignment: Operating System Concepts, Chapter 2 and 18
 ZCZC W00  30 L06 Read about UEFI and BIOS
+ZCZC W00 120 L10 Trying previous midterm problems and demos
