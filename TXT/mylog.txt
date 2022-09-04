@@ -11,4 +11,6 @@ ZCZC W00 120 L02 Thursday Zoom class
 ZCZC W00 120 L10 Reading Assignment: Operating System Concepts, Chapter 2 and 18
 ZCZC W00  30 L06 Read about UEFI and BIOS
 ZCZC W00 120 L10 Trying previous midterm problems and demos
-ZCZC W00  60 L05 Studying and preparing for week 00 quiz 01, GSGS included
+ZCZC W00  60 L05 Studying and preparing for Week 00 Quiz 01, GSGS included
+ZCZC W00  03 L05 Do Week 00 Quiz 01
+ZCZC W00  10 L10 Finish and update logs for all Assignment Week 00
