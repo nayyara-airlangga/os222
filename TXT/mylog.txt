@@ -18,3 +18,4 @@ ZCZC W01 120 L02 Tuesday Zoom class
 ZCZC W01  10 L11 Add myupdate.txt
 ZCZC W01  30 L11 Add links and index.md
 ZCZC W01  10 L04 Add tarball link to index.md
+ZCZC W01  90 L11 Set up a VirtualBox Debian VM
