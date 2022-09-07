@@ -14,3 +14,5 @@ ZCZC W00 120 L10 Trying previous midterm problems and demos
 ZCZC W00  60 L05 Studying and preparing for Week 00 Quiz 01, GSGS included
 ZCZC W00  03 L05 Do Week 00 Quiz 01
 ZCZC W00  10 L10 Finish and update logs for all Assignment Week 00
+ZCZC W01 120 L02 Tuesday Zoom class 
+ZCZC W01  10 L11 Add myupdate.txt
