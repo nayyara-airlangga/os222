@@ -10,4 +10,4 @@ The name's Angga. This is my GitHub Page for the OS222 course.
 [LOG]: TXT/mylog.txt
 [LINKS]: LINKS/
 [TARBALL]: https://os.vlsm.org/Log/nayyara-airlangga.tar.bz2.txt/
-[GITHUB]: https://github.com/nayyara-airlangga/os-222/
+[GITHUB]: https://github.com/nayyara-airlangga/os222/
