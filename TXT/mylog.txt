@@ -19,3 +19,6 @@ ZCZC W01  10 L11 Add myupdate.txt
 ZCZC W01  30 L11 Add links and index.md
 ZCZC W01  10 L04 Add tarball link to index.md
 ZCZC W01  90 L11 Set up a VirtualBox Debian VM
+ZCZC W01 120 L02 Thursday Zoom class
+ZCZC W01  60 L05 Studying and preparing for Week 01 Quiz 01, GSGS included
+ZCZC W01  30 L06 Read about IVT and IDT implementation on x86_64
