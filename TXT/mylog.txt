@@ -23,3 +23,10 @@ ZCZC W01 120 L02 Thursday Zoom class
 ZCZC W01  60 L05 Studying and preparing for Week 01 Quiz 01, GSGS included
 ZCZC W01  30 L06 Read about IVT and IDT implementation on x86_64
 ZCZC W01  60 L11 Reading Operating System Concepts, Chapter 2 and 18
+ZCZC W01  30 L11 Running the Debian VM, testing SSH, dressing up, SCP
+ZCZC W01  30 L03 Setup SSH public/private key, clone repo to VM
+ZCZC W01   3 L05 Do Week 01 Quiz 01
+ZCZC W01 120 L11 Trying previous midterm problems and demos
+ZCZC W01  60 L11 Reading more about bash utilities, awk, sed
+ZCZC W01  60 L23 Bash scripting for automating installation, updates, etc.
+ZCZC W01  60 L06 Reading about FAT32, exFAT, and NTFS
