@@ -34,3 +34,4 @@ ZCZC W02 120 L02 Tuesday Zoom class
 ZCZC W02   3 L12 Update myupdate.txt to week 02
 ZCZC W02   5 L12 Generate GPG key and export mypubkey.txt to repository
 ZCZC W02 120 L02 Thursday Zoom class
+ZCZC W02   5 L12 Script download
