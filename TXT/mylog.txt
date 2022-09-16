@@ -40,3 +40,5 @@ ZCZC W02   3 L05 Do Week 02 Quiz 01
 ZCZC W02 120 L12 Reading Operating System Concepts, Chapter 16 and 17
 ZCZC W02  60 L12 Try out midterm problems and run demos
 ZCZC W02  30 L06 Read about privilege escalation and remote shell execution
+ZCZC W02  60 L06 Read cybersecurity articles
+ZCZC W02  10 L12 Update links.md
