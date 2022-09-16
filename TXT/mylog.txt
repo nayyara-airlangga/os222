@@ -42,3 +42,4 @@ ZCZC W02  60 L12 Try out midterm problems and run demos
 ZCZC W02  30 L06 Read about privilege escalation and remote shell execution
 ZCZC W02  60 L06 Read cybersecurity articles
 ZCZC W02  10 L12 Update links.md
+ZCZC W02  10 L12 Peer review links and add myrank.txt
