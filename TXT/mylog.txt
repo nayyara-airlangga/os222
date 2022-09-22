@@ -46,3 +46,5 @@ ZCZC W02  10 L12 Peer review links and add myrank.txt
 ZCZC W02  15 L12 Adding and running myscript.sh for week 02
 ZCZC W03 120 L02 Tuesday Zoom class
 ZCZC W03   3 L13 Update myupdate.txt for week 03
+ZCZC W03  30 L13 Add/create an extra virtual disk
+ZCZC W03   5 L13 Script download
