@@ -51,3 +51,4 @@ ZCZC W03   5 L13 Script download
 ZCZC W03 120 L02 Thursday Zoom class
 ZCZC W03  90 L06 Reading articles about FUSE and file systems in general
 ZCZC W03  30 L13 Review and update my links.md for week 03
+ZCZC W03 180 L13 Reading Operating System Concepts, Chapter 13, 14, and 15
