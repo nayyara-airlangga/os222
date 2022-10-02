@@ -13,6 +13,10 @@ permalink: /LINKS/
 [FUSE -- The Linux Kernel documentation]: https://www.kernel.org/doc/html/latest/filesystems/fuse.html
 [Develop your own file system with FUSE]: https://developer.ibm.com/articles/l-fuse/
 
+[Paging - OS Dev Wiki]: https://wiki.osdev.org/Paging
+[The Memory and Pointers]: http://www.cs.ecu.edu/karl/2530/fall17/Notes/lec20A.html
+[Shared Libraries]: https://tldp.org/HOWTO/Program-Library-HOWTO/shared-libraries.html
+
 # LINKS
 
 ## Week 01
@@ -44,3 +48,14 @@ What better way to understand FUSE in the Linux file system other than by readin
 
 4. [Develop your own file system with FUSE]<br>
 If you want to get a bit more deep and hands-on with FUSE, this article might be for you. This article gives a comprehensive breakdown on implementing our own file system with FUSE. It also covers several components of the FUSE library and APIs. Not exactly an easy read, but certainly a great one.
+
+# Week 04
+
+1. [Paging - OS Dev Wiki]<br>
+I've talked about the OS Dev wiki multiple times already because it's such a great learning resource. This section of the wiki thoroughly explains about paging, the benefits, implementations, page faults, and more. Paging is a pretty difficult thing to implement and this wiki is here to help.
+
+2. [The Memory and Pointers]<br>
+Pointers are such a core concept in many different fields of programming, not just for operating systems. Knowing how to handle and use pointers correctly can go a long way. This article gives a great explanation and examples of pointers and computer memory.
+
+3. [Shared Libraries]<br>
+Shared libraries allows pre-compiled code to be used and shared by different programs that need it. This article explains pretty well about shared libraries from a more hands-on perspective.
