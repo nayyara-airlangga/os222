@@ -65,5 +65,6 @@ ZCZC W04 120 L02 Thursday Zoom class
 ZCZC W04   5 L05 Do week 04 quiz 02
 ZCZC W04  60 L05 Study and prepare for week 04 quiz 01
 ZCZC W04   3 L05 Do week 04 quiz 01
-ZCZC W04  30 L06 Reading articles about paging, shared libs, and pointers
+ZCZC W04 120 L06 Reading articles about paging, shared libs, and pointers
 ZCZC W04  10 L14 Review and update my links.md for week 04
+ZCZC W04   5 L14 Update myrank.txt for week 04 and run week 04 myscript.sh
