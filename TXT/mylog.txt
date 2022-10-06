@@ -68,3 +68,6 @@ ZCZC W04   3 L05 Do week 04 quiz 01
 ZCZC W04 120 L06 Reading articles about paging, shared libs, and pointers
 ZCZC W04  10 L14 Review and update my links.md for week 04
 ZCZC W04   5 L14 Update myrank.txt for week 04 and run week 04 myscript.sh
+ZCZC W05   5 L15 Update myupdate.txt for week 05
+ZCZC W05 120 L02 Tuesday Zoom class
+ZCZC W05  15 L01 Do pop quizzes
