@@ -72,3 +72,5 @@ ZCZC W05   5 L15 Update myupdate.txt for week 05
 ZCZC W05 120 L02 Tuesday Zoom class
 ZCZC W05  15 L01 Do pop quizzes
 ZCZC W05  15 L15 How low can you go - 190 MB
+ZCZC W05  15 L15 Script download for week 05
+ZCZC W05  60 L15 Modifying memory/mymemory2.c and running script for week 05
