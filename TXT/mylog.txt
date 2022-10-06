@@ -74,3 +74,5 @@ ZCZC W05  15 L01 Do pop quizzes
 ZCZC W05  15 L15 How low can you go - 190 MB
 ZCZC W05  15 L15 Script download for week 05
 ZCZC W05  60 L15 Modifying memory/mymemory2.c and running script for week 05
+ZCZC W05 120 L15 Reading Operating System Concepts, Chapter 10
+ZCZC W05  90 L15 Try out midterm problems and demos
