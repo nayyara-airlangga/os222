@@ -17,6 +17,10 @@ permalink: /LINKS/
 [The Memory and Pointers]: http://www.cs.ecu.edu/karl/2530/fall17/Notes/lec20A.html
 [Shared Libraries]: https://tldp.org/HOWTO/Program-Library-HOWTO/shared-libraries.html
 
+[virtual memory]: https://www.techtarget.com/searchstorage/definition/virtual-memory
+[Memory Allocation]: https://binaryterms.com/static-and-dynamic-memory-allocation.html
+[Page Frame Allocation - OS Dev Wiki]: https://wiki.osdev.org/Page_Frame_Allocation
+
 # LINKS
 
 ## Week 01
@@ -59,3 +63,14 @@ Pointers are such a core concept in many different fields of programming, not ju
 
 3. [Shared Libraries]<br>
 Shared libraries allows pre-compiled code to be used and shared by different programs that need it. This article explains pretty well about shared libraries from a more hands-on perspective.
+
+# Week 05
+
+1. [virtual memory]<br>
+This article provides a great high-level view on virtual memory. It explains about what it is, how it works, the types out there, how to manage it, etc. It's a great starter and reference point for beginners and those who already know virtual memory.
+
+2. [Memory Allocation]<br>
+This article explains memory allocation in a simple and concise way. It focuses on the types of memory allocation and its pros and cons. It even has a key takeaways section that summarizes all key points of the article.
+
+3. [Page Frame Allocation - OS Dev Wiki]<br>
+The OS Dev Wiki has made multiple appearances in my links and I can't really blame them. This section of the wiki provides explanations on physical and and virtual memory allocations and the various approach and data structures involved. In my opinion, this highly compliments the textbook presentation on Page Frames.
