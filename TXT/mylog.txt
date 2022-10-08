@@ -76,3 +76,6 @@ ZCZC W05  15 L15 Script download for week 05
 ZCZC W05  60 L15 Modifying memory/mymemory2.c and running script for week 05
 ZCZC W05 120 L15 Reading Operating System Concepts, Chapter 10
 ZCZC W05  90 L15 Try out midterm problems and demos
+ZCZC W05 120 L02 Thursday Zoom class
+ZCZC W05  60 L05 Prepare for quiz 01 week 05
+ZCZC W05   3 L05 Do week 05 quiz 01
