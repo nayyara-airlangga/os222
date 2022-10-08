@@ -80,3 +80,5 @@ ZCZC W05 120 L02 Thursday Zoom class
 ZCZC W05  60 L05 Prepare for quiz 01 week 05
 ZCZC W05   3 L05 Do week 05 quiz 01
 ZCZC W05  30 L15 Fix week 05 assignments to use low memory
+ZCZC W05  90 L06 Reading articles on virtual memory, memory allocation, and page frame allocation
+ZCZC W05  15 L15 Update links.md and myrank.txt
