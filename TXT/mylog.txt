@@ -79,3 +79,4 @@ ZCZC W05  90 L15 Try out midterm problems and demos
 ZCZC W05 120 L02 Thursday Zoom class
 ZCZC W05  60 L05 Prepare for quiz 01 week 05
 ZCZC W05   3 L05 Do week 05 quiz 01
+ZCZC W05  30 L15 Fix week 05 assignments to use low memory
