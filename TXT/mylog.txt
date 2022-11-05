@@ -90,3 +90,4 @@ ZCZC W06  15 L01 Do week 06 pop quizzes
 ZCZC W06  30 L05 Prepare for week 06 quiz 01
 ZCZC W06   3 L05 Do week 06 quiz 01
 ZCZC W06   5 L16 Update myupdate.txt for week 06
+ZCZC W06  90 L16 Try out midterm problems and demos
