@@ -82,3 +82,11 @@ ZCZC W05   3 L05 Do week 05 quiz 01
 ZCZC W05  30 L15 Fix week 05 assignments to use low memory
 ZCZC W05  90 L06 Reading articles on virtual memory, memory allocation, and page frame allocation
 ZCZC W05  15 L15 Update links.md and myrank.txt
+ZCZC W06 120 L02 Tuesday offline class
+ZCZC W06 120 L16 Reading Operating System Concepts, Chapter 3 and 4
+ZCZC W06   5 L05 Do week 06 quiz 02
+ZCZC W06 120 L02 Thursday offline class
+ZCZC W06  15 L01 Do week 06 pop quizzes
+ZCZC W06  30 L05 Prepare for week 06 quiz 01
+ZCZC W06   3 L05 Do week 06 quiz 01
+ZCZC W06   5 L16 Update myupdate.txt for week 06
