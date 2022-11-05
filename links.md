@@ -21,6 +21,11 @@ permalink: /LINKS/
 [Memory Allocation]: https://binaryterms.com/static-and-dynamic-memory-allocation.html
 [Page Frame Allocation - OS Dev Wiki]: https://wiki.osdev.org/Page_Frame_Allocation
 
+[Processes and Threads]: https://www.d.umn.edu/~gshute/os/processes-and-threads.xhtml
+[Concurrency vs. Parallelism -- A brief view]: https://medium.com/@itIsMadhavan/concurrency-vs-parallelism-a-brief-review-b337c8dac350
+[Multithreaded Programming Guide]: https://docs.oracle.com/cd/E18752_01/html/816-5137/docinfo.html
+[Scheduling Algorithms]: https://wiki.osdev.org/Scheduling_Algorithms
+
 # LINKS
 
 ## Week 01
@@ -74,3 +79,17 @@ This article explains memory allocation in a simple and concise way. It focuses 
 
 3. [Page Frame Allocation - OS Dev Wiki]<br>
 The OS Dev Wiki has made multiple appearances in my links and I can't really blame them. This section of the wiki provides explanations on physical and and virtual memory allocations and the various approach and data structures involved. In my opinion, this highly compliments the textbook presentation on Page Frames.
+
+# Week 06
+
+1. [Processes and Threads]<br>
+Understanding what processes, programs, and threads are is an important part of becoming a better programmer in general. It helps in understanding how computers are able to do the things they can do and how they do it. This simple page provides a nice introduction to the topic.
+
+2. [Concurrency vs. Parallelism -- A brief view]<br>
+To be able to optimize resource usage and performance, operating systems and applications in general use the concept of concurrency and parallelism to do this. This article provides a nice foundation in understanding what these two things are and how they affect the scheduling of processes by an operating system.
+
+3. [Multithreaded Programming Guide]<br>
+This document provides a comprehensive guide on multithreaded programming from the basic concepts up to the implementation using the pthreads library and other APIs. A bit dense in terms of contents but nevertheless great.
+
+4. [Scheduling Algorithms]<br>
+Another wonderful appearance from the OS Dev Wiki. This page explains in detail about the various scheduling algorithms out there used in process scheduling and its pros and cons. I'd recommend this to anyone who wants to know more about process scheduling and the ways it can be done.

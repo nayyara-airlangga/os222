@@ -92,3 +92,6 @@ ZCZC W06   3 L05 Do week 06 quiz 01
 ZCZC W06   5 L16 Update myupdate.txt for week 06
 ZCZC W06  90 L16 Try out midterm problems and demos
 ZCZC W06  15 L16 Script download: fork and memory for week 06
+ZCZC W06  90 L06 Reading about multithreaded programming with pthreads
+ZCZC W06  30 L06 Reading about scheduling algorithms, processes, threads
+ZCZC W06  10 L16 Update links.md
