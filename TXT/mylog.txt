@@ -96,3 +96,10 @@ ZCZC W06  90 L06 Reading about multithreaded programming with pthreads
 ZCZC W06  30 L06 Reading about scheduling algorithms, processes, threads
 ZCZC W06  10 L16 Update links.md
 ZCZC W06  10 L16 Peer review links for week 06 and update myrank.txt
+ZCZC W07 120 L02 Tuesday hybrid class
+ZCZC W07   5 L05 Do week 07 quiz 02
+ZCZC W07 120 L02 Thursday offline class
+ZCZC W07 150 L17 Reading Operating System Concepts, Chapter 6, 7, and 8
+ZCZC W07  15 L17 Do week 07 pop quizzes
+ZCZC W07  33 L05 Prepare and do week 07 quiz 01
+ZCZC W07   5 L17 Update myupdate.txt for week 07
