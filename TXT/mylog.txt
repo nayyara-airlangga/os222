@@ -103,3 +103,4 @@ ZCZC W07 150 L17 Reading Operating System Concepts, Chapter 6, 7, and 8
 ZCZC W07  15 L17 Do week 07 pop quizzes
 ZCZC W07  33 L05 Prepare and do week 07 quiz 01
 ZCZC W07   5 L17 Update myupdate.txt for week 07
+ZCZC W07  10 L17 Script download: Synchronization
