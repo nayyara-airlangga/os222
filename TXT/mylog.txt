@@ -104,3 +104,6 @@ ZCZC W07  15 L17 Do week 07 pop quizzes
 ZCZC W07  33 L05 Prepare and do week 07 quiz 01
 ZCZC W07   5 L17 Update myupdate.txt for week 07
 ZCZC W07  10 L17 Script download: Synchronization
+ZCZC W07  90 L06 Reading articles on synchronization and deadlocks
+ZCZC W07  10 L17 Update links for week 07
+ZCZC W07  90 L17 Tryout midterm problems and demos

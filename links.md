@@ -26,6 +26,10 @@ permalink: /LINKS/
 [Multithreaded Programming Guide]: https://docs.oracle.com/cd/E18752_01/html/816-5137/docinfo.html
 [Scheduling Algorithms]: https://wiki.osdev.org/Scheduling_Algorithms
 
+[Process Synchronization: Critical Section Problem in OS]: https://www.guru99.com/process-synchronization.html
+[Spinlock]: https://wiki.osdev.org/Spinlock
+[Mutex lock for Linux Thread Synchronization]: https://www.geeksforgeeks.org/mutex-lock-for-linux-thread-synchronization/
+
 # LINKS
 
 ## Week 01
@@ -93,3 +97,14 @@ This document provides a comprehensive guide on multithreaded programming from t
 
 4. [Scheduling Algorithms]<br>
 Another wonderful appearance from the OS Dev Wiki. This page explains in detail about the various scheduling algorithms out there used in process scheduling and its pros and cons. I'd recommend this to anyone who wants to know more about process scheduling and the ways it can be done.
+
+# Week 07
+
+1. [Process Synchronization: Critical Section Problem in OS]<br>
+This is a neat article to complement our textbook in understanding the critical section problem.
+
+2. [Spinlock]<br>
+The OS Dev Wiki never ceases to amaze. This article provides a brief overview on spinlocks as well as some pseudocode in spinlock variations. Another neat article to complement the textbook
+
+3. [Mutex lock for Linux Thread Synchronization]<br>
+This article shows how mutexes can be used for thread synchronization. The implementation is made in C but could very well apply to other languages too. Pretty neat read.
