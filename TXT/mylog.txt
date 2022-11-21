@@ -116,3 +116,4 @@ ZCZC W08  33 L05 prepare and do week 08 quiz 01
 ZCZC W08   5 L18 Update myupdate.txt for week 08
 ZCZC W08  90 L18 Tryout midterm problems and demos
 ZCZC W08 120 L18 Watch scheduling recording
+ZCZC W08  10 L18 Script download
