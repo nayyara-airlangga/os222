@@ -121,3 +121,4 @@ ZCZC W08  10 L18 Do week 08 pop quiz 01 and 02
 ZCZC W08  60 L18 Do week 08 pop quiz 03 and 04
 ZCZC W08 240 L18 Do Linux From Scratch 11.2 Ch. 1-5
 ZCZC W08  60 L06 Reading articles on scheduling
+ZCZC W08  10 L18 Update links for week 08

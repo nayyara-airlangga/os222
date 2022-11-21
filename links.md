@@ -30,6 +30,10 @@ permalink: /LINKS/
 [Spinlock]: https://wiki.osdev.org/Spinlock
 [Mutex lock for Linux Thread Synchronization]: https://www.geeksforgeeks.org/mutex-lock-for-linux-thread-synchronization/
 
+[Linux From Scratch 11.2]: https://www.linuxfromscratch.org/lfs/view/11.2/
+[Scheduling in OS]: https://binaryterms.com/scheduling-in-operating-system.html
+[Toolchains]: https://elinux.org/Toolchains 
+
 # LINKS
 
 ## Week 01
@@ -108,3 +112,14 @@ The OS Dev Wiki never ceases to amaze. This article provides a brief overview on
 
 3. [Mutex lock for Linux Thread Synchronization]<br>
 This article shows how mutexes can be used for thread synchronization. The implementation is made in C but could very well apply to other languages too. Pretty neat read.
+
+# Week 08
+
+1. [Linux From Scratch 11.2]<br>
+The official book/guide for Linux From Scratch. This is a clearly written guide which takes us step by step info building LFS. Sometimes the official guide is the best.
+
+2. [Scheduling in OS]<br>
+This is a pretty good complementary article to support the current text book on scheduling. It gives a clear and concise explanation about scheduling in general.
+
+3. [Toolchains]<br>
+The term toolchain was thrown a lot in the LFS guide. This article helps in giving a brief explanation on what toolchains are and its components.
