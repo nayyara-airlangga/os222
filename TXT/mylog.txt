@@ -108,3 +108,9 @@ ZCZC W07  90 L06 Reading articles on synchronization and deadlocks
 ZCZC W07  10 L17 Update links for week 07
 ZCZC W07  90 L17 Tryout midterm problems and demos
 ZCZC W07  10 L17 Peer review week 07 links and update myrank.txt
+ZCZC W08 120 L02 Tuesday hybrid class
+ZCZC W08   5 L05 Do week 08 quiz 02
+ZCZC W08 120 L02 Thursday offline class
+ZCZC W08 120 L18 Reading Operating System Concepts, Chapter 5
+ZCZC W08  33 L05 prepare and do week 08 quiz 01
+ZCZC W08   5 L18 Update myupdate.txt for week 08
